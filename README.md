@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
