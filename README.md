@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanKuppili/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1656-count-good-triplets](https://github.com/PavanKuppili/leetcode/tree/master/1656-count-good-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/PavanKuppili/leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
