@@ -40,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PavanKuppili/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/PavanKuppili/leetcode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PavanKuppili/leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PavanKuppili/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
