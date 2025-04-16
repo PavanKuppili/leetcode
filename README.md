@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PavanKuppili/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanKuppili/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1656-count-good-triplets](https://github.com/PavanKuppili/leetcode/tree/master/1656-count-good-triplets) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PavanKuppili/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PavanKuppili/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
