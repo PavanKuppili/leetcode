@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PavanKuppili/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [2050-count-good-numbers](https://github.com/PavanKuppili/leetcode/tree/master/2050-count-good-numbers) |
 ## Enumeration
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PavanKuppili/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PavanKuppili/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
