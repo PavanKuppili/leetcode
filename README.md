@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PavanKuppili/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/PavanKuppili/leetcode/tree/master/2050-count-good-numbers) |
+| [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
