@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PavanKuppili/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3194-find-words-containing-character](https://github.com/PavanKuppili/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/PavanKuppili/leetcode/tree/master/0290-word-pattern) |
+| [3194-find-words-containing-character](https://github.com/PavanKuppili/leetcode/tree/master/3194-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
