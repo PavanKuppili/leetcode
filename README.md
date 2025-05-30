@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/PavanKuppili/leetcode/tree/master/0290-word-pattern) |
 | [3194-find-words-containing-character](https://github.com/PavanKuppili/leetcode/tree/master/3194-find-words-containing-character) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
