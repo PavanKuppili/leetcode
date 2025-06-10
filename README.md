@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PavanKuppili/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/PavanKuppili/leetcode/tree/master/0290-word-pattern) |
 | [3194-find-words-containing-character](https://github.com/PavanKuppili/leetcode/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PavanKuppili/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PavanKuppili/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
