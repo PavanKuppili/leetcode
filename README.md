@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PavanKuppili/leetcode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/PavanKuppili/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanKuppili/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PavanKuppili/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/PavanKuppili/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
