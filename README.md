@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PavanKuppili/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/PavanKuppili/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PavanKuppili/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/PavanKuppili/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PavanKuppili/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PavanKuppili/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PavanKuppili/leetcode/tree/master/0011-container-with-most-water) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PavanKuppili/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
