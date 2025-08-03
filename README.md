@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PavanKuppili/leetcode/tree/master/0011-container-with-most-water) |
+| [0051-n-queens](https://github.com/PavanKuppili/leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/PavanKuppili/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/PavanKuppili/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanKuppili/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PavanKuppili/leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/PavanKuppili/leetcode/tree/master/0051-n-queens) |
 ## Counting
 |  |
 | ------- |
