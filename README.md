@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/PavanKuppili/leetcode/tree/master/0290-word-pattern) |
+| [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PavanKuppili/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/PavanKuppili/leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/PavanKuppili/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/PavanKuppili/leetcode/tree/master/2050-count-good-numbers) |
 | [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/PavanKuppili/leetcode/tree/master/1656-count-good-triplets) |
 ## Database
 |  |
@@ -118,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PavanKuppili/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
 | [3321-type-of-triangle](https://github.com/PavanKuppili/leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
