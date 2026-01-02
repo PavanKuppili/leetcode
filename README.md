@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PavanKuppili/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/PavanKuppili/leetcode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PavanKuppili/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PavanKuppili/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PavanKuppili/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PavanKuppili/leetcode/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/PavanKuppili/leetcode/tree/master/0290-word-pattern) |
 | [0900-reordered-power-of-2](https://github.com/PavanKuppili/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PavanKuppili/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/PavanKuppili/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/PavanKuppili/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/PavanKuppili/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
